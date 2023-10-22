@@ -13,7 +13,7 @@ console.log(age);
 
 // Multi-Word Formatting
 // firstName = camelCase
-// first_name = underscore
+// first_name = underscore || snake_case
 // FirstName = PascalCase
 // firstname = lowercase
 
